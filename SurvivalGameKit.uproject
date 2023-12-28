@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "FMODStudio",
+			"Enabled": false
+		},
+		{
+			"Name": "EZDOF_Plugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a5ffec1762c74e7281594e48b35bee59"
+		},
+		{
+			"Name": "AchievementSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "RecoilAnimation",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/76194998d28247018bee7be203f6c948"
+		}
+	]
+}
